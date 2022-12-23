@@ -347,9 +347,9 @@ minivaline:
   pageSize: 6 # Pagination size.
   adminEmailMd5: de8a7aa53d07e6b6bceb45c64027763d # The MD5 of Admin Email to show Admin Flag.[Just Only DesertsP Style mode]
   tagMeta: # The String Array of Words to show Flag.[Just Only xCss Style mode]
-    - 管理员
-    - 小伙伴
-    - 访客
+    - 管理員
+    - 小夥伴
+    - 訪客
   master: # The MD5 String Array of master Email to show master Flag.[Just Only xCss Style mode]
     - de8a7aa53d07e6b6bceb45c64027763d
   friends: # The MD5 String Array of friends Email to show friends Flag.[Just Only xCss Style mode]
@@ -566,8 +566,8 @@ subtitle:
   startDelay: 300 # 开始延迟
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
-  sub1: 从来没有真正的绝境, 只有心灵的迷途
-  sub2: Never really desperate, only the lost of the soul
+  sub1: 超級可悲還沒上岸的大四學生
+  sub2: No Graduate school
 
 # 手机二级菜单.
 navMenu:

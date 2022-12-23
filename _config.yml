@@ -4,12 +4,12 @@
 
 # Site
 title: Trahsu Can
-subtitle: ''
+subtitle: '筆記'
 description: ''
 keywords:
 author: 牧凡
 language: zh-HK
-timezone: ''
+timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
